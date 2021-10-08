@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_training_attendee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_training_attendee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sascha</sys_created_by>
+            <sys_created_on>2021-02-27 22:02:32</sys_created_on>
+            <sys_id>29092ad68d266810f877b2b7f96751c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+            <sys_update_name>sys_choice_x_snc_training_attendee_state</sys_update_name>
+            <sys_updated_by>sascha</sys_updated_by>
+            <sys_updated_on>2021-02-27 22:02:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canceled</label>
+            <language>en</language>
+            <name>x_snc_training_attendee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sascha</sys_created_by>
+            <sys_created_on>2021-02-27 22:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5092ad68d266810f877b2b7f96751ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sascha</sys_updated_by>
+            <sys_updated_on>2021-02-27 22:02:32</sys_updated_on>
+            <value>canceled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Registered</label>
+            <language>en</language>
+            <name>x_snc_training_attendee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>sascha</sys_created_by>
+            <sys_created_on>2021-02-27 22:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9092ad68d266810f877b2b7f96751c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sascha</sys_updated_by>
+            <sys_updated_on>2021-02-27 22:02:32</sys_updated_on>
+            <value>registered</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

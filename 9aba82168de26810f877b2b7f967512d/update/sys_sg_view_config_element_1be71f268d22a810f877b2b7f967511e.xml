@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>opened_by.avatar-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>sascha</sys_created_by>
+        <sys_created_on>2021-02-28 20:05:56</sys_created_on>
+        <sys_id>1be71f268d22a810f877b2b7f967511e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.avatar-FieldValue</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_1be71f268d22a810f877b2b7f967511e</sys_update_name>
+        <sys_updated_by>sascha</sys_updated_by>
+        <sys_updated_on>2021-02-28 20:05:56</sys_updated_on>
+        <view_config display_value="Course Detail Screen View Config">32e7db268d22a810f877b2b7f96751c9</view_config>
+        <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

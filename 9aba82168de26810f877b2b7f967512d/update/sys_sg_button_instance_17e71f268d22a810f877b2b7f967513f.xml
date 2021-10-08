@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Course)">13e71f268d22a810f877b2b7f967512b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Course)</name>
+        <order/>
+        <parent>1fe71f268d22a810f877b2b7f9675121</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>sascha</sys_created_by>
+        <sys_created_on>2021-02-28 20:05:57</sys_created_on>
+        <sys_id>17e71f268d22a810f877b2b7f967513f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Course)</sys_name>
+        <sys_package display_value="Training" source="x_snc_training">9aba82168de26810f877b2b7f967512d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">9aba82168de26810f877b2b7f967512d</sys_scope>
+        <sys_update_name>sys_sg_button_instance_17e71f268d22a810f877b2b7f967513f</sys_update_name>
+        <sys_updated_by>sascha</sys_updated_by>
+        <sys_updated_on>2021-02-28 20:05:57</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=17e71f268d22a810f877b2b7f967513f"/>
+</record_update>
